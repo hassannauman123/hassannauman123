@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1026"/><stop offset=".55" stop-color="#14235c"/><stop offset="1" stop-color="#31165c"/></linearGradient><linearGradient id="line"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#6a7ec2" opacity=".14"/></pattern></defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/><rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".6"><path d="M0 238Q180 170 300 228T600 220T900 215T1200 210"/><path d="M0 260Q190 205 320 250T620 242T900 245T1200 235"/></g>
+<g fill="none" stroke="#47b5ff" opacity=".55"><rect x="65" y="135" width="55" height="76" rx="5"/><rect x="125" y="105" width="55" height="106" rx="5"/><rect x="1020" y="115" width="115" height="90" rx="8"/><path d="M1035 145h85M1035 172h85"/></g>
+<g fill="#38bdf8"><circle cx="1090" cy="133" r="3"/><circle cx="1090" cy="160" r="3"/><circle cx="1090" cy="188" r="3"/></g>
+<text x="600" y="107" fill="#e5efff" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="53">Hassan Nauman</text>
+<text x="600" y="150" fill="#65d8ff" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="18" letter-spacing="4">CLOUD  •  INFRASTRUCTURE  •  SYSTEMS ENGINEERING</text>
+<text x="600" y="190" fill="#c5cfe8" text-anchor="middle" font-family="Arial,sans-serif" font-size="20">Building reliable systems. Automating operational work.</text>
+<g fill="#b0c8ff" font-family="monospace" font-size="24"><text x="230" y="90">&lt;/&gt;</text><text x="920" y="87">{ }</text></g>
+</svg>
